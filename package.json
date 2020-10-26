@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_api_base",
+  "version": "1.0.0",
+  "description": "A baseline blank project for use by the 404's when creating a new NodeJS API project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Curt Bryan",
+  "license": "ISC"
+}
